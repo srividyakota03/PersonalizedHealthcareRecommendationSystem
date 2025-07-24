@@ -64,6 +64,31 @@ The dataset consists of anonymized blood donation records. Each entry represents
 - Returns a human-readable recommendation message
 
 ---
+## 🚀 How to Run the Notebook
+
+1. **Clone or Download the Project Folder**
+   - Make sure you have the project files including:
+     - `blood.csv` (dataset)
+     - `personalizedHealthCareRecommendationSystem.ipynb` (notebook file)
+
+2. **Ensure the Dataset File is Named Exactly:**
+```blood.csv```
+
+3. **Open the Notebook File**
+- Use **Jupyter Notebook**, **VS Code (with Python extension)**, or **Google Colab**
+- Open:  
+  ```
+  personalizedHealthCareRecommendationSystem.ipynb
+  ```
+4. **Run All Cells**
+- This will:
+  - Load and explore the dataset
+  - Train a machine learning model
+  - Visualize insights and performance
+  - Prompt you for real-time user input
+  - Provide personalized healthcare recommendations based on prediction
+
+---
 
 ## 🔍 Sample Prediction (User Input)
 
